@@ -125,8 +125,53 @@ Import OpenCV (cv2) in your Python script:
 Once OpenCV is installed, you can import it into your Python script as follows:
    
      import cv2
+step 2
+
+     To import and install the NumPy library in Python, you can follow these steps:
+
+Install NumPy:
+If you haven't already installed NumPy, you can do so using pip, the Python package manager. Open your command prompt or terminal and run the following command:
+ 
+         pip install numpy
+
+This command will download and install the NumPy library for Python.
+
+Import NumPy in your Python script:
+After installing NumPy, you can import it into your Python script as follows:
+
+          import numpy as np
+
+Now, you can use NumPy functions and features in your Python code for numerical operations and array manipulation.
+
+step 2
+To import and install the Matplotlib library in Python and use it with the common alias "plt," follow these steps:
+
+Install Matplotlib:
+If you haven't already installed Matplotlib, you can do so using pip, the Python package manager. Open your command prompt or terminal and run the following command:
+                pip install matplotlib
+                
+This command will download and install the Matplotlib library for Python.
+
+Import Matplotlib in your Python script:
+After installing Matplotlib, you can import it into your Python script as follows:
 
 
+Copy code
+                 import matplotlib.pyplot as plt
+                 
+Now, you can use Matplotlib functions and features in your Python code for data visualization and plotting. The plt alias is a common convention for Matplotlib and makes it easier to call Matplotlib functions in your code.
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
