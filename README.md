@@ -163,6 +163,8 @@ Now, you can use Matplotlib functions and features in your Python code for data 
 
 
 ![image processing](image/process.png)
+![image processing](image/process.png)
+
 
 ![sample input and output](image/in&output.png)
 
