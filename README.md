@@ -161,10 +161,10 @@ Copy code
                  
 Now, you can use Matplotlib functions and features in your Python code for data visualization and plotting. The plt alias is a common convention for Matplotlib and makes it easier to call Matplotlib functions in your code.
 
-image/in&output.png
-![image processing](image/in&output.png)
 
+![image processing](image/process.png)
 
+![sample input and output](image/in&output.png)
 
 
 
